@@ -4,12 +4,12 @@ Exercise for MSCH-C220 at Indiana University, Bloomington
 
 The expectations for this exercise are that you will
 
- - [ ] Create an account at github.com
- - [ ] Fork this repository
- - [ ] Create accounts at gamedev.stackexchange.com and replit.com
- - [ ] Download and install Twine and GitHub Desktop
- - [ ] Edit this repository's LICENSE and README.md
- - [ ] Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
+ - [x] Create an account at github.com
+ - [x] Fork this repository
+ - [x] Create accounts at gamedev.stackexchange.com and replit.com
+ - [x] Download and install Twine and GitHub Desktop
+ - [x] Edit this repository's LICENSE and README.md
+ - [x] Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
 
 ## Instructions
 
